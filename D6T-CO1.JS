@@ -13,5 +13,4 @@ const movie2 = new Movie("Casino Royale", "Eon Productions","PG");
 console.log(movie1.title);
 console.log(movie1.studio);
 console.log(movie1.rating);
-
 console.log(movie2.rating);
